@@ -3,5 +3,6 @@
 - Javascript OOP
   * Class
   * Objek
+  - Javascript Ajax
 - Javascript Modules
 - Javascript Asycronus
