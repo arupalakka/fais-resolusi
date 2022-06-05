@@ -6,3 +6,5 @@
   - Javascript Ajax
 - Javascript Modules
 - Javascript Asycronus
+- php
+- c++
