@@ -3,6 +3,9 @@
 - Javascript OOP
   * Class
   * Objek
+  * array
   - Javascript Ajax
 - Javascript Modules
 - Javascript Asycronus
+- php
+- c++
